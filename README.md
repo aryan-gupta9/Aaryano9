@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aaryano9
-- 👀 I’m interested in CCybersecurity
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me 9005783346
